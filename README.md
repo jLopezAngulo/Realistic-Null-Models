@@ -3,8 +3,7 @@
 
 
 ######################################################################################################
-# Manuscript: "A dimmer shade of pale: revealing the faint signature of local assembly processes 
-#              on the structure of strongly filtered plant communities"
+# Manuscript: "A dimmer shade of pale: revealing the faint signature of local assembly processes on the structure of strongly filtered plant communities"
 ######################################################################################################
 
 # ---------------------------------------------------------------------------------------------------
